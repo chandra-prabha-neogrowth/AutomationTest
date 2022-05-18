@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="11" total="12" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T12:46:44 IST" name="Default suite" finished-at="2022-05-18T12:46:46 IST" duration-ms="1727">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T12:46:44 IST" name="Default test" finished-at="2022-05-18T12:46:46 IST" duration-ms="1727">
+      <class name="com.plms.Api.test.TestGetRequest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.plms.Api.test.TestGetRequest@5b057c8c]" started-at="2022-05-18T12:46:45 IST" name="init" finished-at="2022-05-18T12:46:45 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCamUser()[pri:0, instance:com.plms.Api.test.TestGetRequest@5b057c8c]" started-at="2022-05-18T12:46:45 IST" name="testCamUser" finished-at="2022-05-18T12:46:46 IST" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamUser -->
+      </class> <!-- com.plms.Api.test.TestGetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
